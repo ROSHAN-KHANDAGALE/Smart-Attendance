@@ -1,0 +1,9 @@
+export { default as AttendanceByQR } from "./AttendanceByQR";
+export { default as AttendanceByYou } from "./AttendanceByYou";
+export { default as Error } from "./Error";
+export { default as LoginInput } from "./LoginInput";
+export { default as CreateDepartment } from "./CreateDepartment";
+export { default as CreateClass } from "./CreateClass";
+export { default as CreateTeacher } from "./CreateTeacher";
+export { default as CreateSubject } from "./CreateSubject";
+export { default as CreateStudent } from "./CreateStudent";
